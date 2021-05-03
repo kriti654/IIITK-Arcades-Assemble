@@ -149,10 +149,10 @@ h1 {
   text-align: center;
 
 }
-@media only screen and (min-width: 480px) {
+@media only screen and (max-width: 1218px) {
   .item {
     width: 80%;
-    height: 80%;
+    height: 70%;
   }
   .square a .item p{
     font-size: 12px;
